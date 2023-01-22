@@ -1,0 +1,3 @@
+[workspace]
+members = ["nbt_reader"]
+resolver = "2"
